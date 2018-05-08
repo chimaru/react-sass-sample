@@ -1,0 +1,26 @@
+.book {
+	border-collapse: collapse;
+}
+
+.book th, .book td{
+	border: solid 1px;
+	padding: 1px 15px;
+}
+
+.entry {
+  margin-top: 20px;
+  width: 300px;
+  input[type="submit"] {
+    margin-top: 10px;
+    width: 60px;
+    font-size: 120%;
+  }
+  input[type="radio"] {
+    margin-left: 40px;
+    margin-bottom: 10px;
+  }
+}
+
+.test {
+  color: red;
+}
